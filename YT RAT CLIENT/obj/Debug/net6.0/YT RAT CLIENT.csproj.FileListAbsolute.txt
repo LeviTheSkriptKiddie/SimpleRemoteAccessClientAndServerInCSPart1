@@ -1,0 +1,15 @@
+C:\Users\lsbol\source\repos\YT RAT\YT RAT CLIENT\bin\Debug\net6.0\YT RAT CLIENT.exe
+C:\Users\lsbol\source\repos\YT RAT\YT RAT CLIENT\bin\Debug\net6.0\YT RAT CLIENT.deps.json
+C:\Users\lsbol\source\repos\YT RAT\YT RAT CLIENT\bin\Debug\net6.0\YT RAT CLIENT.runtimeconfig.json
+C:\Users\lsbol\source\repos\YT RAT\YT RAT CLIENT\bin\Debug\net6.0\YT RAT CLIENT.dll
+C:\Users\lsbol\source\repos\YT RAT\YT RAT CLIENT\bin\Debug\net6.0\YT RAT CLIENT.pdb
+C:\Users\lsbol\source\repos\YT RAT\YT RAT CLIENT\obj\Debug\net6.0\YT RAT CLIENT.csproj.AssemblyReference.cache
+C:\Users\lsbol\source\repos\YT RAT\YT RAT CLIENT\obj\Debug\net6.0\YT RAT CLIENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsbol\source\repos\YT RAT\YT RAT CLIENT\obj\Debug\net6.0\YT RAT CLIENT.AssemblyInfoInputs.cache
+C:\Users\lsbol\source\repos\YT RAT\YT RAT CLIENT\obj\Debug\net6.0\YT RAT CLIENT.AssemblyInfo.cs
+C:\Users\lsbol\source\repos\YT RAT\YT RAT CLIENT\obj\Debug\net6.0\YT RAT CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\lsbol\source\repos\YT RAT\YT RAT CLIENT\obj\Debug\net6.0\YT RAT CLIENT.dll
+C:\Users\lsbol\source\repos\YT RAT\YT RAT CLIENT\obj\Debug\net6.0\refint\YT RAT CLIENT.dll
+C:\Users\lsbol\source\repos\YT RAT\YT RAT CLIENT\obj\Debug\net6.0\YT RAT CLIENT.pdb
+C:\Users\lsbol\source\repos\YT RAT\YT RAT CLIENT\obj\Debug\net6.0\YT RAT CLIENT.genruntimeconfig.cache
+C:\Users\lsbol\source\repos\YT RAT\YT RAT CLIENT\obj\Debug\net6.0\ref\YT RAT CLIENT.dll
